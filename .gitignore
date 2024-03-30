@@ -19,3 +19,5 @@ _book
 *.iml
 
 src/javaSortTest/target/
+
+src/rust/target/
